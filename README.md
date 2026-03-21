@@ -43,7 +43,7 @@ I am a 9th-grade student from Pernambuco, Brazil, building a solid foundation to
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseotaviomoreira&layout=compact&theme=radical" height="150" alt="languages card" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joseotaviomoreira&theme=radical&hide_border=true" height="150" alt="streak card" />
 </p>
 
 
