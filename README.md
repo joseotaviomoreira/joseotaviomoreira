@@ -41,6 +41,5 @@ I am a 9th-grade student from Pernambuco, Brazil, building a solid foundation to
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseotaviomoreira&layout=compact&theme=radical" height="150" alt="languages card" />
 </p>
 
-[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=joseotaviomoreira&theme=radical&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 "The best way to predict the future is to create it." - **Abraham Lincoln**
