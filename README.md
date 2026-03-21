@@ -26,7 +26,7 @@ I am a 9th-grade student from Pernambuco, Brazil, building a solid foundation to
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white)
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 
 ### Infrastructure 
@@ -39,6 +39,10 @@ I am a 9th-grade student from Pernambuco, Brazil, building a solid foundation to
 ### My Progress
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=joseotaviomoreira&show_icons=true&theme=radical" height="150" alt="stats card" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseotaviomoreira&layout=compact&theme=radical" height="150" alt="languages card" />
+</p>
+
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseotaviomoreira&layout=compact&theme=radical" height="150" alt="languages card" />
 </p>
 
