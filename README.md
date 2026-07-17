@@ -8,7 +8,7 @@
 ## About Me
 I am a 9th-grade student from Pernambuco, Brazil, building a solid foundation to become an **Automation Specialist** and researcher in **Quantum Computing**.
 
-### My Tech Stack & Tools
+### My Tech Stack, Tools & Current Studies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
@@ -19,8 +19,9 @@ I am a 9th-grade student from Pernambuco, Brazil, building a solid foundation to
 ![Artificial Intelligence](https://img.shields.io/badge/AI%20/%20ML-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## Quantum Computing Goals:
+#### Quantum Computing Goals:
 ![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)
+
 
 
 "The best way to predict the future is to create it." - **Abraham Lincoln**
