@@ -13,7 +13,7 @@ I am a 9th-grade student from Pernambuco, Brazil, building a solid foundation to
 ![Rust]()
 ![Bash]()
 ![Qt/QML]()
-![Linux](<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" />)
 ![Emacs]()
 ![Godot]()
 
