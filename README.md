@@ -1,4 +1,5 @@
-## Hi there. I'm Jose Otavio 
+## Hi there. I'm Jose Otavio and my nickname is "Fnfasy"!
+
 
 > *"Bad programmers worry about the code. Good programmers worry about data structures and their relationships."* — **Linus Torvalds**
 >
