@@ -4,7 +4,7 @@
 ## About Me
 Hi! I'm Otavio. I am a person who is curious about how things work, and I am interested in learning hardware programming and low-to-mid-level programming.
 
-Currently exploring:
+# Currently exploring:
 
    Low-level programming
 
