@@ -1,0 +1,73 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="850" height="200" viewBox="0 0 850 200">
+
+  <rect width="850" height="200" fill="#0d1117"/>
+
+  <!-- Geometric symbols -->
+  <g stroke="#30363d" stroke-width="1" fill="none">
+    <path d="M55 100 L95 35 L135 100 L95 165 Z"/>
+    <path d="M55 100 H135 M95 35 V165"/>
+    <path d="M55 100 L95 75 L135 100"/>
+    <path d="M55 100 L95 125 L135 100"/>
+    <circle cx="95" cy="100" r="25"/>
+    <circle cx="95" cy="100" r="3"/>
+    <path d="M95 15 V35 M95 165 V185"/>
+    <path d="M35 100 H55 M135 100 H155"/>
+    <path d="M70 25 L95 15 L120 25"/>
+    <path d="M70 175 L95 185 L120 175"/>
+  </g>
+
+  <!-- Mirrored symbol -->
+  <g transform="translate(850 0) scale(-1 1)"
+     stroke="#30363d" stroke-width="1" fill="none">
+    <path d="M55 100 L95 35 L135 100 L95 165 Z"/>
+    <path d="M55 100 H135 M95 35 V165"/>
+    <path d="M55 100 L95 75 L135 100"/>
+    <path d="M55 100 L95 125 L135 100"/>
+    <circle cx="95" cy="100" r="25"/>
+    <circle cx="95" cy="100" r="3"/>
+    <path d="M95 15 V35 M95 165 V185"/>
+    <path d="M35 100 H55 M135 100 H155"/>
+    <path d="M70 25 L95 15 L120 25"/>
+    <path d="M70 175 L95 185 L120 175"/>
+  </g>
+
+  <!-- Central identity -->
+  <g text-anchor="middle"
+     font-family="Inter, Helvetica, Arial, sans-serif">
+
+    <text x="425" y="76"
+          fill="#ffffff"
+          font-size="38"
+          font-weight="500"
+          letter-spacing="12">
+      FNFASY
+    </text>
+
+    <text x="425" y="108"
+          fill="#8b949e"
+          font-size="13"
+          letter-spacing="5">
+      OTAVIO
+    </text>
+
+    <path d="M325 122 H525"
+          stroke="#30363d" stroke-width="1"/>
+
+    <text x="425" y="145"
+          fill="#8b949e"
+          font-size="10"
+          letter-spacing="1.5">
+      LOW-LEVEL PROGRAMMING
+    </text>
+
+    <text x="425" y="163"
+          fill="#8b949e"
+          font-size="10"
+          letter-spacing="1.5">
+      ELECTRONICS  /  CYBERSECURITY
+    </text>
+
+  </g>
+</svg>
