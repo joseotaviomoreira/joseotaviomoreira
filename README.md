@@ -1,10 +1,5 @@
 ![FNFASY Banner](./banner.svg)
 
-
-
-> *"Bad programmers worry about the code. Good programmers worry about data structures and their relationships."* — **Linus Torvalds**
->
->  *"Ad Astra Per Aspera"*
  
 ## About Me
 I am a 9th-grade student from Pernambuco, Brazil, building a solid foundation to become an **Automation Specialist** and researcher in **Quantum Computing**.
@@ -29,6 +24,5 @@ Another area I enjoy is technology applied to energy management.
 ![Qt/QML](https://img.shields.io/badge/Qt%20/%20QML-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 ![Artificial Intelligence](https://img.shields.io/badge/AI%20/%20ML-00A67E?style=for-the-badge&logo=openai&logoColor=white)
 
-Fun fact: I recently started using Linux after discovering that servers run on it; since then, I’ve fallen in love with the ecosystem and its distros, and I use it as my primary OS (I use Arch, btw)
+> *"Bad programmers worry about the code. Good programmers worry about data structures and their relationships."* — **Linus Torvalds**
 
-"The best way to predict the future is to create it." - **Abraham Lincoln**
